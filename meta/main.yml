@@ -1,8 +1,7 @@
 ---
 galaxy_info:
-  author: your name
-  description: 
-  company: your company (optional)
+  author: xcezx
+  description: build and install mysql
   license: BSD
   min_ansible_version: 1.2
   platforms:
