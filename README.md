@@ -8,13 +8,17 @@ Role Variables
 
 - `mysql_group`
 - `mysql_user`
+- `mysql_build_checkout_dest`
+- `mysql_build_version`
 - `mysql_version`
 - `mysql_plugin`
 - `mysql_basedir`
 - `mysql_datadir`
 - `mysql_port`
 - `mysql_rc_script`
+- `mysql_root_password`
 - `mysql_config`
+- `mysql_append_config`
 
 Example Playbook
 ----------------
